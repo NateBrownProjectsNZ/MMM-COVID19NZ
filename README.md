@@ -2,7 +2,7 @@ Config:
 
 <code>
 {
-		module: "newsfeed",
+		module: "MMM-Covid19NZ",
 		position: "bottom_bar",
 		config: {
 			feeds: [
