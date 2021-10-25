@@ -1,10 +1,10 @@
 Config:
 
+<code>
 {
 		module: "newsfeed",
 		position: "bottom_bar",
 		config: {
-    
 			feeds: [
 				{
 					title: "Covid19 Updates",
@@ -13,3 +13,4 @@ Config:
 			].
 		}.
 	}.
+</code>
